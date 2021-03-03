@@ -1,8 +1,8 @@
-var timeRemaining; // Time left
-var timeInterval; // Timer interval
-var quizProgress; // What question we're currently on
-var answerChoice; // A choice from 0-3
-var finalScore; // The final score for the game
+var timeRemaining;
+var timeInterval; 
+var quizProgress; // Current question
+var answerChoice; 
+var finalScore; 
 var currentLeaderboard; // The current leaderboard for the game
 var initials; // The name entry value when submitting a score
 
