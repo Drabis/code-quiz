@@ -16,7 +16,8 @@ This is the message I display on the first page
 JavaScript quiz content
 
 <img width="953" alt="Screen Shot 2021-02-27 at 10 26 52 PM" src="https://user-images.githubusercontent.com/76567790/109407027-bfa98c80-794b-11eb-9028-53b40cb95ac6.png">
-
+      After the game end you're prompt to enter your name to compare to my ppeers
+      
 <img width="987" alt="Screen Shot 2021-02-27 at 10 27 14 PM" src="https://user-images.githubusercontent.com/76567790/109407032-c46e4080-794b-11eb-8d2b-635bed7d7489.png">
 
 
