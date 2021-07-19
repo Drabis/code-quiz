@@ -8,7 +8,7 @@ When you answer correctly the flash message will alert you "correct" and
 when your answer is incorrect, it will display "incorrect" and will be subtracting 5 seconds 
 after answering all five questions you will be asked for your initial to store your scores.
 
-Direct access to the game: https://drabis.github.io/Code-Quiz/
+Direct access to the game: https://drabis.github.io/code-quiz/
 
 This is the message I display on the first page
 <img width="969" alt="Screen Shot 2021-02-27 at 10 26 38 PM" src="https://user-images.githubusercontent.com/76567790/109406944-0ea2f200-794b-11eb-85a3-685a30f838f6.png">
